@@ -6,6 +6,9 @@
 - My Achievements:-
   - Certification of Completion for succesfully completing the course on Python3 from Codecademy
   - Certification of Completion for succesfully completing the course on Command Line from Codecademy
+
+- Ongoing:-
+  - Build Python Web Apps Using Django from Codecademy  
 <!---
 karan-cheema/karan-cheema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
