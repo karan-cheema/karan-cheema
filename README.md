@@ -9,7 +9,8 @@
 
 - Ongoing:-
   - Build Python Web Apps Using Django from Codecademy
-  - Essential mathematics for Data Science
+  - Essential mathematics for Data Science from Codecademy
+  - Learning Ruby and Ruby on Rails
 <!---
 karan-cheema/karan-cheema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
