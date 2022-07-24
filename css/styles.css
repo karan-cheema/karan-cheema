@@ -16,3 +16,11 @@ h1 {
 h3 {
   color: #66BFBF;
 }
+
+.amber:hover {
+  color: #FD2A4B;
+}
+
+.almo {
+  color: black;
+}
